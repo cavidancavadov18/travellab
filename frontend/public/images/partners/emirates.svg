@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 40" role="img" aria-label="Emirates">
+  <rect width="140" height="40" rx="8" fill="#fff"/>
+  <rect x="10" y="10" width="18" height="20" rx="2" fill="#D71921"/>
+  <text x="36" y="26" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" fill="#D71921">Emirates</text>
+</svg>

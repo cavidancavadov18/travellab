@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 40" role="img" aria-label="Expedia">
+  <rect width="130" height="40" rx="8" fill="#fff"/>
+  <circle cx="18" cy="20" r="10" fill="#FFC72C"/>
+  <text x="36" y="26" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" fill="#10214B">Expedia</text>
+</svg>

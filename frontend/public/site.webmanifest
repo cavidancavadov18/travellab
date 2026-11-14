@@ -1,0 +1,28 @@
+{
+  "name": "Travellab",
+  "short_name": "Travellab",
+  "description": "Aviabilet, otel, tur və Labpoint — hamısı bir yerdə.",
+  "start_url": "/az",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#069547",
+  "icons": [
+    {
+      "src": "/images/brand/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/brand/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/brand/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" role="img" aria-label="Qatar Airways">
+  <rect width="160" height="40" rx="8" fill="#fff"/>
+  <polygon points="12,28 20,10 28,28" fill="#5C0632"/>
+  <text x="36" y="26" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5C0632">Qatar Airways</text>
+</svg>

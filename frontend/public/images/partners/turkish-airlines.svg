@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 40" role="img" aria-label="Turkish Airlines">
+  <rect width="180" height="40" rx="8" fill="#fff"/>
+  <circle cx="18" cy="20" r="10" fill="#C8102E"/>
+  <path d="M14 20c2-4 6-6 10-5" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/>
+  <text x="36" y="25" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#C8102E">Turkish Airlines</text>
+</svg>
